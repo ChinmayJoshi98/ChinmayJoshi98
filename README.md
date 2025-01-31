@@ -13,7 +13,7 @@ Step-by-step approach:
 </p>
 
 
-<h1 align="center">Whadup! 👋 I'm Chinmay Joshi</h1>
+
 
 <h3 align="center">I build Full Stack solutions and Mulesoft integrations, creating scalable applications and seamless API-driven architectures.</h3>
 
@@ -227,8 +227,3 @@ Step-by-step approach:
 </p>
 
 ---
-
-<!-- Coder Cat GIF (Bottom) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding-cat" width="300"/>
-</p>
