@@ -8,6 +8,11 @@ Step-by-step approach:
 6. Preserved GitHub stats and trophies but ensured overall brevity.
 -->
 
+<p align="center">
+  <img src="https://github.com/ChinmayJoshi98/ChinmayJoshi98/blob/main/github-header-image.png" alt="Chinmay Joshi Header" />
+</p>
+
+
 <h1 align="center">Whadup! 👋 I'm Chinmay Joshi</h1>
 
 <!-- Coder Cat GIF (Top) -->
