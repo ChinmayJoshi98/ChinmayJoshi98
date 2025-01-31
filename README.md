@@ -27,23 +27,16 @@ Step-by-step approach:
 
 ## ⚡ Quick Facts
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li> 🔭 <b>Currently working on</b> building and maintaining UIC Websites.</li>
-        <li> 🌱 <b>Currently learning</b> GoLang, ChakraUI, AWS.</li>
-        <li> 👯 <b>Looking to collaborate on</b> standalone Mule and Full Stack projects.</li>
-        <li> 💬 <b>Ask me about</b> Mulesoft integrations, Full Stack projects.</li>
-        <li> 📫 <b>Reach me at</b> <a href="mailto:joshichinmay94@gmail.com">joshichinmay94@gmail.com</a></li>
-        <li> ⚡ <b>Fun fact</b>: I believe in being the best version of yourself. Always.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" width="250" align="right"/>
+</p>
+
+- 🔭 **Currently working on** building and maintaining UIC Websites.  
+- 🌱 **Currently learning** GoLang, ChakraUI, AWS.  
+- 👯 **Looking to collaborate on** standalone Mule and Full Stack projects.  
+- 💬 **Ask me about** Mulesoft integrations, Full Stack projects.  
+- 📫 **Reach me at** [joshichinmay94@gmail.com](mailto:joshichinmay94@gmail.com)  
+- ⚡ **Fun fact**: I believe in being the best version of yourself. Always.
 
 ---
 
