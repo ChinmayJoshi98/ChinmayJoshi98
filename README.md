@@ -15,7 +15,7 @@ Step-by-step approach:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="cat-coding" width="300"/>
 </p>
 
-<h3 align="center">I build solutions that simplify integrations and deliver engaging user experiences.</h3>
+<h3 align="center">I build Full Stack solutions and Mulesoft integrations, creating scalable applications and seamless API-driven architectures.</h3>
 
 <p align="left">
   <!-- Profile Views -->
