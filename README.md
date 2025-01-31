@@ -15,11 +15,6 @@ Step-by-step approach:
 
 <h1 align="center">Whadup! 👋 I'm Chinmay Joshi</h1>
 
-<!-- Coder Cat GIF (Top) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="cat-coding" width="300"/>
-</p>
-
 <h3 align="center">I build Full Stack solutions and Mulesoft integrations, creating scalable applications and seamless API-driven architectures.</h3>
 
 <p align="left">
