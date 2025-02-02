@@ -31,7 +31,7 @@ Step-by-step approach:
   <tr>
     <td>
       <ul>
-        <li> 📄 Know about my experiences at <a href="https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link"><p>(My Resume)</p></a></li>
+        <li> 📄 Know about my experiences at <a href="https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link">(My Resume)</a></li>
         <li> 🔭 <b>Currently working on</b> building and maintaining UIC Websites.</li>
         <li> 🌱 <b>Currently learning</b> GoLang, ChakraUI, AWS.</li>
         <li> 👯 <b>Looking to collaborate on</b> standalone Mule and Full Stack projects.</li>
