@@ -31,7 +31,6 @@ Step-by-step approach:
   <tr>
     <td>
       <ul>
-        - 📄 Know about my experiences [https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link](https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link)
         <li> 🔭 <b>Currently working on</b> building and maintaining UIC Websites.</li>
         <li> 🌱 <b>Currently learning</b> GoLang, ChakraUI, AWS.</li>
         <li> 👯 <b>Looking to collaborate on</b> standalone Mule and Full Stack projects.</li>
