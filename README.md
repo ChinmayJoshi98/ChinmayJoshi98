@@ -31,11 +31,10 @@ Step-by-step approach:
   <tr>
     <td>
       <ul>
-        <li> 📄 Know about my experiences at <a href="https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link">(My Resume)</a></li>
+        <li> 📄 <b>Know about my experiences at</b> <a href="https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link">(My Resume)</a></li>
         <li> 🔭 <b>Currently working on</b> building and maintaining UIC Websites.</li>
         <li> 🌱 <b>Currently learning</b> GoLang, ChakraUI, AWS.</li>
         <li> 👯 <b>Looking to collaborate on</b> standalone Mule and Full Stack projects.</li>
-        <li> 💬 <b>Ask me about</b> Mulesoft integrations, Full Stack projects.</li>
         <li> 📫 <b>Reach me at</b> <a href="mailto:joshichinmay94@gmail.com">joshichinmay94@gmail.com</a></li>
         <li> ⚡ <b>Fun fact</b>: I believe in being the best version of yourself. Always.</li>
       </ul>
