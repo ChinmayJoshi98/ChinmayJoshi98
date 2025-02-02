@@ -31,7 +31,10 @@ Step-by-step approach:
   <tr>
     <td>
       <ul>
-        <li> 📄 <b>Know about my experiences at</b> <a href="https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link">(My Resume)</a></li>
+        <li> 📄 <b>Know about my experiences at</b><a href="https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+            <b>(My Resume)</b>
+          </a>
+        </li>
         <li> 🔭 <b>Currently working on</b> building and maintaining UIC Websites.</li>
         <li> 🌱 <b>Currently learning</b> GoLang, ChakraUI, AWS.</li>
         <li> 👯 <b>Looking to collaborate on</b> standalone Mule and Full Stack projects.</li>
