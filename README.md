@@ -31,7 +31,7 @@ Step-by-step approach:
   <tr>
     <td>
       <ul>
-        <li> 📄 <b>Know about my experiences at</b><a href="https://drive.google.com/file/d/1MNpmAFaTyplWQCxqXLBl9gm8F0SmSkGc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+        <li> 📄 <b>Know about my experiences at</b><a href="https://tinyurl.com/cjresume2" target="_blank" rel="noopener noreferrer">
             <b>(My Resume)</b>
           </a>
         </li>
